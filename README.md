@@ -1,8 +1,9 @@
-<div style="text-align: center;">
-
+<div align="center">
+  
 [![image](https://en.uit.edu.vn/sites/vi/files/banner_en.png "VNUHCM - University of Information Technology")]("https://www.uit.edu.vn/")
 
 </div>
+
 
 
 <!-- Title -->

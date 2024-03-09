@@ -1,6 +1,13 @@
-[![image](https://en.uit.edu.vn/sites/vi/files/banner_en.png "VNUHCM - University of Information Technology")](https://www.uit.edu.vn/)
+<div style="text-align: center;">
 
+[![image](https://en.uit.edu.vn/sites/vi/files/banner_en.png "VNUHCM - University of Information Technology")]("https://www.uit.edu.vn/")
+
+</div>
+
+
+<!-- Title -->
 <h1 align="center">CS114 - Machine Learning</h1>
+
 
 ## About this course
 
